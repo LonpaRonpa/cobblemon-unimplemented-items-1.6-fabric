@@ -7,22 +7,22 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:air",
-          "weight": 88
+          "weight": 76
         },
         {
           "type": "minecraft:item",
           "name": "unimplemented_items:bottle_cap",
-          "weight": 10
+          "weight": 20
         },
         {
           "type": "minecraft:item",
           "name": "unimplemented_items:bottle_cap_gold",
-          "weight": 1
+          "weight": 2
         },
         {
           "type": "minecraft:item",
           "name": "unimplemented_items:ability_patch",
-          "weight": 1
+          "weight": 2
         }
       ]
     }
